@@ -2218,9 +2218,9 @@ input, select, textarea {
 			}
 
 			.panel > *.color4 {
-				background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
+				background-image: url("../../images/overlay.png"), linear-gradient(45deg, #673187 100%, #8F6F9E 50%, #FFE8FF);
 				background-size: 128px 128px, auto;
-				background-color: #353865;
+				background-color: #673187;
 			}
 
 			.panel > *.color1-alt {
@@ -2242,9 +2242,10 @@ input, select, textarea {
 			}
 
 			.panel > *.color4-alt {
-				background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.175) 25%, rgba(227, 123, 124, 0.175) 50%, rgba(255, 228, 180, 0.175));
+				background-image: url("../../images/overlay.png"), linear-gradient(45deg, #673187 100%, #97cc8a2d 50%, #ece2d02d);
 				background-size: 128px 128px, auto;
-				background-color: #323459;
+				background-color: #673187;
+				
 			}
 
 		.panel > .intro {
